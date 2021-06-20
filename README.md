@@ -1,1 +1,3 @@
-# MakarShevchenko2
+# iterators check
+
+Проверка работы итераторов
